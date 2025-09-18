@@ -4,6 +4,9 @@ One of the **first-ever Malayalam-language mobile applications** published on th
 The app serves as a **digital recipe book** featuring a variety of authentic South Indian cuisines, making it easier for users to explore, learn, and cook delicious dishes in their own language.  
 
 ---
+![Screenshot_20190726-100830](https://github.com/user-attachments/assets/33c02054-e83a-4d2c-9230-f1dc960d3a59)
+
+
 
 ## 📱 Features  
 
@@ -15,6 +18,9 @@ The app serves as a **digital recipe book** featuring a variety of authentic Sou
 
 ---
 
+![Screenshot_20190726-100836](https://github.com/user-attachments/assets/ff7d9a7b-bc73-4f45-b1bf-dc754eff8407)
+
+
 ## 🛠️ Tech Stack  
 
 - **Frontend:** Flutter (Dart)  
@@ -22,6 +28,9 @@ The app serves as a **digital recipe book** featuring a variety of authentic Sou
 - **Platform:** Android (Google Play Store release)  
 
 ---
+
+![Screenshot_20190726-100843](https://github.com/user-attachments/assets/408ee4ea-0096-40c1-8c7e-e6ff2a334c9c)
+
 
 ## 🚀 Installation  
 
